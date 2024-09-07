@@ -27,6 +27,11 @@ The Bikeshare Data Exploration is a Python application designed to analyze and r
 1. Ensure Python is installed on your system.
 2. Install required Python packages: `pandas`, `numpy`
 
+###Detailed Setup Instructions
+
+Before running the bikeshare analysis tool, make sure to install Python 3.6 or a newer version on your machine. 
+You can download Python from python.org.
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
